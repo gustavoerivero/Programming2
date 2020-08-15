@@ -11,7 +11,7 @@
 
 Project corresponding to the subject Programming II of Computer Engineering of the Centroccidental University "Lisandro Alvarado". A Desktop Application using the Monodevelop with C# and MySQL.
 
-This application consists of a management system for a company that provides courses on desktop, web and mobile application development (iOS and Android). For more information, read the following document: *[Programming Project 2]*(https://mega.nz/file/H9Mw3YgK#KOVRRlA2QK02inm63UJuwcldtTXaUsG67hvTPv58_u4)
+This application consists of a management system for a company that provides courses on desktop, web and mobile application development (iOS and Android). For more information, read the following document: [Programming Project 2](https://mega.nz/file/H9Mw3YgK#KOVRRlA2QK02inm63UJuwcldtTXaUsG67hvTPv58_u4)
 
 ## Features:
 
