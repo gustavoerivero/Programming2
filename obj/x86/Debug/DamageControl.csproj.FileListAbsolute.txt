@@ -1,0 +1,7 @@
+/home/chini/Descargas/damage_control(1)/DamageControl/obj/x86/Debug/DamageControl.csprojAssemblyReference.cache
+/home/chini/Descargas/damage_control(1)/DamageControl/obj/x86/Debug/DamageControl.csproj.CoreCompileInputs.cache
+/home/chini/Descargas/damage_control(1)/DamageControl/obj/x86/Debug/DamageControl.exe
+/home/chini/Descargas/damage_control(1)/DamageControl/obj/x86/Debug/DamageControl.pdb
+/home/chini/Descargas/damage_control(1)/DamageControl/bin/Debug/DamageControl.exe
+/home/chini/Descargas/damage_control(1)/DamageControl/bin/Debug/DamageControl.pdb
+/home/chini/Descargas/damage_control(1)/DamageControl/obj/x86/Debug/DamageControl.csproj.CopyComplete

@@ -1,0 +1,178 @@
+/home/prof-yonso/Escritorio/DamageControl/DamageControl/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/home/prof-yonso/Escritorio/DamageControl/DamageControl/obj/x86/Debug/DamageControl.gtk-gui.gui.stetic
+/home/prof-yonso/Escritorio/DamageControl/DamageControl/bin/Debug/itextsharp.dll
+/home/prof-yonso/Escritorio/DamageControl/DamageControl/bin/Debug/MySql.Data.dll
+/home/prof-yonso/Escritorio/DamageControl/DamageControl/bin/Debug/DamageControl.pdb
+/home/prof-yonso/Escritorio/DamageControl/DamageControl/bin/Debug/DamageControl.exe
+/home/prof-yonso/Escritorio/DamageControl/DamageControl/obj/x86/Debug/DamageControl.exe
+/home/prof-yonso/Escritorio/DamageControl/DamageControl/obj/x86/Debug/DamageControl.pdb
+/home/prof-yonso/Escritorio/DamageControl1/DamageControl/DamageControl/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/home/prof-yonso/Escritorio/DamageControl1/DamageControl/DamageControl/obj/x86/Debug/DamageControl.gtk-gui.gui.stetic
+/home/prof-yonso/Escritorio/DamageControl1/DamageControl/DamageControl/bin/Debug/DamageControl.pdb
+/home/prof-yonso/Escritorio/DamageControl1/DamageControl/DamageControl/bin/Debug/DamageControl.exe
+/home/prof-yonso/Escritorio/DamageControl1/DamageControl/DamageControl/obj/x86/Debug/DamageControl.exe
+/home/prof-yonso/Escritorio/DamageControl1/DamageControl/DamageControl/obj/x86/Debug/DamageControl.pdb
+/home/prof-yonso/Escritorio/DamageControl1/DamageControl/DamageControl/bin/Debug/itextsharp.dll
+/home/prof-yonso/Escritorio/DamageControl (2)/DamageControl/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/home/prof-yonso/Escritorio/DamageControl (2)/DamageControl/obj/x86/Debug/DamageControl.gtk-gui.gui.stetic
+/home/prof-yonso/Escritorio/DamageControl (2)/DamageControl/obj/x86/Debug/DamageControl.exe
+/home/prof-yonso/Escritorio/DamageControl (2)/DamageControl/obj/x86/Debug/DamageControl.pdb
+/home/prof-yonso/Escritorio/DamageControl (2)/DamageControl/bin/Debug/itextsharp.dll
+/home/prof-yonso/Escritorio/DamageControl (2)/DamageControl/bin/Debug/MySql.Data.dll
+/home/prof-yonso/Escritorio/DamageControl (2)/DamageControl/bin/Debug/DamageControl.pdb
+/home/prof-yonso/Escritorio/DamageControl (2)/DamageControl/bin/Debug/DamageControl.exe
+/home/prof-yonso/Escritorio/DamageControl (Progra)/DamageControl/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/home/prof-yonso/Escritorio/DamageControl (Progra)/DamageControl/obj/x86/Debug/DamageControl.gtk-gui.gui.stetic
+/home/prof-yonso/Escritorio/DamageControl (Progra)/DamageControl/bin/Debug/DamageControl.pdb
+/home/prof-yonso/Escritorio/DamageControl (Progra)/DamageControl/bin/Debug/DamageControl.exe
+/home/prof-yonso/Escritorio/DamageControl (Progra)/DamageControl/obj/x86/Debug/DamageControl.exe
+/home/prof-yonso/Escritorio/DamageControl (Progra)/DamageControl/obj/x86/Debug/DamageControl.pdb
+/home/prof-yonso/Escritorio/DamageControl (Progra)/DamageControl/bin/Debug/itextsharp.dll
+/home/prof-yonso/Escritorio/DamageControl (Progra)/DamageControl/bin/Debug/MySql.Data.dll
+/home/prof-yonso/Escritorio/DamageControl (re)/DamageControl/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/home/prof-yonso/Escritorio/DamageControl (re)/DamageControl/obj/x86/Debug/DamageControl.gtk-gui.gui.stetic
+/home/prof-yonso/Escritorio/DamageControl (re)/DamageControl/bin/Debug/DamageControl.pdb
+/home/prof-yonso/Escritorio/DamageControl (re)/DamageControl/bin/Debug/DamageControl.exe
+/home/prof-yonso/Escritorio/DamageControl (re)/DamageControl/obj/x86/Debug/DamageControl.exe
+/home/prof-yonso/Escritorio/DamageControl (re)/DamageControl/obj/x86/Debug/DamageControl.pdb
+/home/prof-yonso/Escritorio/DamageControl (re)/DamageControl/bin/Debug/itextsharp.dll
+/home/prof-yonso/Escritorio/DamageControl (re)/DamageControl/bin/Debug/MySql.Data.dll
+/home/prof-yonso/Escritorio/DamageControl/DamageControl/obj/x86/Debug/DamageControl.imagenes.001-database.png
+/home/prof-yonso/Escritorio/DamageControl/DamageControl/obj/x86/Debug/DamageControl.imagenes.001-market.png
+/home/prof-yonso/Escritorio/DamageControl/DamageControl/obj/x86/Debug/DamageControl.imagenes.002-people-1.png
+/home/prof-yonso/Escritorio/DamageControl/DamageControl/obj/x86/Debug/DamageControl.imagenes.002-team.png
+/home/prof-yonso/Escritorio/DamageControl/DamageControl/obj/x86/Debug/DamageControl.imagenes.002-warning.png
+/home/prof-yonso/Escritorio/DamageControl/DamageControl/obj/x86/Debug/DamageControl.imagenes.003-doctor-3.png
+/home/prof-yonso/Escritorio/DamageControl/DamageControl/obj/x86/Debug/DamageControl.imagenes.003-doctor-3BIG.png
+/home/prof-yonso/Escritorio/DamageControl/DamageControl/obj/x86/Debug/DamageControl.imagenes.003-tools.png
+/home/prof-yonso/Escritorio/DamageControl/DamageControl/obj/x86/Debug/DamageControl.imagenes.004-people-3.png
+/home/prof-yonso/Escritorio/DamageControl/DamageControl/obj/x86/Debug/DamageControl.imagenes.006-affiliate.png
+/home/prof-yonso/Escritorio/DamageControl/DamageControl/obj/x86/Debug/DamageControl.imagenes.006-social.png
+/home/prof-yonso/Escritorio/DamageControl/DamageControl/obj/x86/Debug/DamageControl.imagenes.009-medical.png
+/home/prof-yonso/Escritorio/DamageControl/DamageControl/obj/x86/Debug/DamageControl.imagenes.009-medicalBIG.png
+/home/prof-yonso/Escritorio/DamageControl/DamageControl/obj/x86/Debug/DamageControl.imagenes.clinica_dental.png
+/home/prof-yonso/Escritorio/DamageControl/DamageControl/obj/x86/Debug/DamageControl.imagenes.clipboard.png
+/home/prof-yonso/Escritorio/DamageControl/DamageControl/obj/x86/Debug/DamageControl.imagenes.dientelogo.png
+/home/prof-yonso/Escritorio/DamageControl/DamageControl/obj/x86/Debug/DamageControl.imagenes.medical.png
+/home/prof-yonso/Escritorio/Damage_Control/DamageControl/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/home/prof-yonso/Escritorio/Damage_Control/DamageControl/obj/x86/Debug/DamageControl.gtk-gui.gui.stetic
+/home/prof-yonso/Escritorio/Damage_Control/DamageControl/obj/x86/Debug/DamageControl.imagenes.001-database.png
+/home/prof-yonso/Escritorio/Damage_Control/DamageControl/obj/x86/Debug/DamageControl.imagenes.001-market.png
+/home/prof-yonso/Escritorio/Damage_Control/DamageControl/obj/x86/Debug/DamageControl.imagenes.002-people-1.png
+/home/prof-yonso/Escritorio/Damage_Control/DamageControl/obj/x86/Debug/DamageControl.imagenes.002-team.png
+/home/prof-yonso/Escritorio/Damage_Control/DamageControl/obj/x86/Debug/DamageControl.imagenes.002-warning.png
+/home/prof-yonso/Escritorio/Damage_Control/DamageControl/obj/x86/Debug/DamageControl.imagenes.003-doctor-3.png
+/home/prof-yonso/Escritorio/Damage_Control/DamageControl/obj/x86/Debug/DamageControl.imagenes.003-doctor-3BIG.png
+/home/prof-yonso/Escritorio/Damage_Control/DamageControl/obj/x86/Debug/DamageControl.imagenes.003-tools.png
+/home/prof-yonso/Escritorio/Damage_Control/DamageControl/obj/x86/Debug/DamageControl.imagenes.004-people-3.png
+/home/prof-yonso/Escritorio/Damage_Control/DamageControl/obj/x86/Debug/DamageControl.imagenes.006-affiliate.png
+/home/prof-yonso/Escritorio/Damage_Control/DamageControl/obj/x86/Debug/DamageControl.imagenes.006-social.png
+/home/prof-yonso/Escritorio/Damage_Control/DamageControl/obj/x86/Debug/DamageControl.imagenes.009-medical.png
+/home/prof-yonso/Escritorio/Damage_Control/DamageControl/obj/x86/Debug/DamageControl.imagenes.009-medicalBIG.png
+/home/prof-yonso/Escritorio/Damage_Control/DamageControl/obj/x86/Debug/DamageControl.imagenes.clinica_dental.png
+/home/prof-yonso/Escritorio/Damage_Control/DamageControl/obj/x86/Debug/DamageControl.imagenes.clipboard.png
+/home/prof-yonso/Escritorio/Damage_Control/DamageControl/obj/x86/Debug/DamageControl.imagenes.dientelogo.png
+/home/prof-yonso/Escritorio/Damage_Control/DamageControl/obj/x86/Debug/DamageControl.imagenes.medical.png
+/home/prof-yonso/Escritorio/Damage_Control/DamageControl/bin/Debug/DamageControl.pdb
+/home/prof-yonso/Escritorio/Damage_Control/DamageControl/bin/Debug/DamageControl.exe
+/home/prof-yonso/Escritorio/Damage_Control/DamageControl/obj/x86/Debug/DamageControl.exe
+/home/prof-yonso/Escritorio/Damage_Control/DamageControl/obj/x86/Debug/DamageControl.pdb
+/home/prof-yonso/Escritorio/Damage_Control/DamageControl/bin/Debug/itextsharp.dll
+/home/prof-yonso/Escritorio/Damage_Control/DamageControl/bin/Debug/MySql.Data.dll
+/home/prof-yonso/Escritorio/Damage_Control Editado/DamageControl/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/home/prof-yonso/Escritorio/Damage_Control Editado/DamageControl/obj/x86/Debug/DamageControl.gtk-gui.gui.stetic
+/home/prof-yonso/Escritorio/Damage_Control Editado/DamageControl/obj/x86/Debug/DamageControl.imagenes.001-database.png
+/home/prof-yonso/Escritorio/Damage_Control Editado/DamageControl/obj/x86/Debug/DamageControl.imagenes.001-market.png
+/home/prof-yonso/Escritorio/Damage_Control Editado/DamageControl/obj/x86/Debug/DamageControl.imagenes.002-people-1.png
+/home/prof-yonso/Escritorio/Damage_Control Editado/DamageControl/obj/x86/Debug/DamageControl.imagenes.002-team.png
+/home/prof-yonso/Escritorio/Damage_Control Editado/DamageControl/obj/x86/Debug/DamageControl.imagenes.002-warning.png
+/home/prof-yonso/Escritorio/Damage_Control Editado/DamageControl/obj/x86/Debug/DamageControl.imagenes.003-doctor-3.png
+/home/prof-yonso/Escritorio/Damage_Control Editado/DamageControl/obj/x86/Debug/DamageControl.imagenes.003-doctor-3BIG.png
+/home/prof-yonso/Escritorio/Damage_Control Editado/DamageControl/obj/x86/Debug/DamageControl.imagenes.003-tools.png
+/home/prof-yonso/Escritorio/Damage_Control Editado/DamageControl/obj/x86/Debug/DamageControl.imagenes.004-people-3.png
+/home/prof-yonso/Escritorio/Damage_Control Editado/DamageControl/obj/x86/Debug/DamageControl.imagenes.006-affiliate.png
+/home/prof-yonso/Escritorio/Damage_Control Editado/DamageControl/obj/x86/Debug/DamageControl.imagenes.006-social.png
+/home/prof-yonso/Escritorio/Damage_Control Editado/DamageControl/obj/x86/Debug/DamageControl.imagenes.009-medical.png
+/home/prof-yonso/Escritorio/Damage_Control Editado/DamageControl/obj/x86/Debug/DamageControl.imagenes.009-medicalBIG.png
+/home/prof-yonso/Escritorio/Damage_Control Editado/DamageControl/obj/x86/Debug/DamageControl.imagenes.clinica_dental.png
+/home/prof-yonso/Escritorio/Damage_Control Editado/DamageControl/obj/x86/Debug/DamageControl.imagenes.clipboard.png
+/home/prof-yonso/Escritorio/Damage_Control Editado/DamageControl/obj/x86/Debug/DamageControl.imagenes.dientelogo.png
+/home/prof-yonso/Escritorio/Damage_Control Editado/DamageControl/obj/x86/Debug/DamageControl.imagenes.medical.png
+/home/prof-yonso/Escritorio/Damage_Control Editado/DamageControl/bin/Debug/DamageControl.pdb
+/home/prof-yonso/Escritorio/Damage_Control Editado/DamageControl/bin/Debug/DamageControl.exe
+/home/prof-yonso/Escritorio/Damage_Control Editado/DamageControl/obj/x86/Debug/DamageControl.exe
+/home/prof-yonso/Escritorio/Damage_Control Editado/DamageControl/obj/x86/Debug/DamageControl.pdb
+/home/prof-yonso/Escritorio/Damage_Control Editado/DamageControl/bin/Debug/itextsharp.dll
+/home/prof-yonso/Escritorio/Damage_Control Editado/DamageControl/bin/Debug/MySql.Data.dll
+/home/prof-yonso/Escritorio/Damage_Control/DamageControl/obj/x86/Debug/DamageControl.Logo-Damage-Control-2.png
+/home/prof-yonso/Escritorio/Damage_Control - instructores ready/DamageControl/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/home/prof-yonso/Escritorio/Damage_Control - instructores ready/DamageControl/obj/x86/Debug/DamageControl.exe
+/home/prof-yonso/Escritorio/Damage_Control - instructores ready/DamageControl/obj/x86/Debug/DamageControl.pdb
+/home/prof-yonso/Escritorio/Damage_Control - instructores ready/DamageControl/bin/Debug/itextsharp.dll
+/home/prof-yonso/Escritorio/Damage_Control - instructores ready/DamageControl/bin/Debug/MySql.Data.dll
+/home/prof-yonso/Escritorio/Damage_Control - instructores ready/DamageControl/obj/x86/Debug/DamageControl.gtk-gui.gui.stetic
+/home/prof-yonso/Escritorio/Damage_Control - instructores ready/DamageControl/obj/x86/Debug/DamageControl.imagenes.001-database.png
+/home/prof-yonso/Escritorio/Damage_Control - instructores ready/DamageControl/obj/x86/Debug/DamageControl.imagenes.001-market.png
+/home/prof-yonso/Escritorio/Damage_Control - instructores ready/DamageControl/obj/x86/Debug/DamageControl.imagenes.002-people-1.png
+/home/prof-yonso/Escritorio/Damage_Control - instructores ready/DamageControl/obj/x86/Debug/DamageControl.imagenes.002-team.png
+/home/prof-yonso/Escritorio/Damage_Control - instructores ready/DamageControl/obj/x86/Debug/DamageControl.imagenes.002-warning.png
+/home/prof-yonso/Escritorio/Damage_Control - instructores ready/DamageControl/obj/x86/Debug/DamageControl.imagenes.003-doctor-3.png
+/home/prof-yonso/Escritorio/Damage_Control - instructores ready/DamageControl/obj/x86/Debug/DamageControl.imagenes.003-doctor-3BIG.png
+/home/prof-yonso/Escritorio/Damage_Control - instructores ready/DamageControl/obj/x86/Debug/DamageControl.imagenes.003-tools.png
+/home/prof-yonso/Escritorio/Damage_Control - instructores ready/DamageControl/obj/x86/Debug/DamageControl.imagenes.004-people-3.png
+/home/prof-yonso/Escritorio/Damage_Control - instructores ready/DamageControl/obj/x86/Debug/DamageControl.imagenes.006-affiliate.png
+/home/prof-yonso/Escritorio/Damage_Control - instructores ready/DamageControl/obj/x86/Debug/DamageControl.imagenes.006-social.png
+/home/prof-yonso/Escritorio/Damage_Control - instructores ready/DamageControl/obj/x86/Debug/DamageControl.imagenes.009-medical.png
+/home/prof-yonso/Escritorio/Damage_Control - instructores ready/DamageControl/obj/x86/Debug/DamageControl.imagenes.009-medicalBIG.png
+/home/prof-yonso/Escritorio/Damage_Control - instructores ready/DamageControl/obj/x86/Debug/DamageControl.imagenes.clinica_dental.png
+/home/prof-yonso/Escritorio/Damage_Control - instructores ready/DamageControl/obj/x86/Debug/DamageControl.imagenes.clipboard.png
+/home/prof-yonso/Escritorio/Damage_Control - instructores ready/DamageControl/obj/x86/Debug/DamageControl.imagenes.dientelogo.png
+/home/prof-yonso/Escritorio/Damage_Control - instructores ready/DamageControl/obj/x86/Debug/DamageControl.imagenes.medical.png
+/home/prof-yonso/Escritorio/Damage_Control - instructores ready/DamageControl/bin/Debug/DamageControl.pdb
+/home/prof-yonso/Escritorio/Damage_Control - instructores ready/DamageControl/bin/Debug/DamageControl.exe
+/home/prof-yonso/Escritorio/Damage_Control - instructores ready/DamageControl/obj/x86/Debug/DamageControl.imagenes.Busqueda.png
+/home/prof-yonso/Escritorio/Damage_Control - instructores ready/DamageControl/obj/x86/Debug/DamageControl.imagenes.Eliminar.png
+/home/prof-yonso/Escritorio/Damage_Control - instructores ready/DamageControl/obj/x86/Debug/DamageControl.imagenes.Logo Damage Control.png
+/home/prof-yonso/Escritorio/Damage_Control - instructores ready/DamageControl/obj/x86/Debug/DamageControl.imagenes.Logo-Damage-Control.png
+/home/prof-yonso/Escritorio/Damage_Control - instructores ready/DamageControl/obj/x86/Debug/DamageControl.imagenes.Logo-Damage-Control-2.png
+/home/prof-yonso/Escritorio/Damage_Control - instructores ready/DamageControl/obj/x86/Debug/DamageControl.imagenes.Modificar.png
+/home/prof-yonso/Escritorio/Damage_Control - instructores ready/DamageControl/obj/x86/Debug/DamageControl.imagenes.Nuevo-Usuario.png
+/home/prof-yonso/Escritorio/Damage_Control - instructores ready/DamageControl/obj/x86/Debug/DamageControl.imagenes.Reinscribir.png
+/home/prof-yonso/Escritorio/Damage_Control - instructores ready/DamageControl/obj/x86/Debug/DamageControl.imagenes.Reportes.png
+/home/prof-yonso/Escritorio/damage_control(1)/DamageControl/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/home/prof-yonso/Escritorio/damage_control(1)/DamageControl/obj/x86/Debug/DamageControl.gtk-gui.gui.stetic
+/home/prof-yonso/Escritorio/damage_control(1)/DamageControl/obj/x86/Debug/DamageControl.imagenes.001-database.png
+/home/prof-yonso/Escritorio/damage_control(1)/DamageControl/obj/x86/Debug/DamageControl.imagenes.001-market.png
+/home/prof-yonso/Escritorio/damage_control(1)/DamageControl/obj/x86/Debug/DamageControl.imagenes.002-people-1.png
+/home/prof-yonso/Escritorio/damage_control(1)/DamageControl/obj/x86/Debug/DamageControl.imagenes.002-team.png
+/home/prof-yonso/Escritorio/damage_control(1)/DamageControl/obj/x86/Debug/DamageControl.imagenes.002-warning.png
+/home/prof-yonso/Escritorio/damage_control(1)/DamageControl/obj/x86/Debug/DamageControl.imagenes.003-doctor-3.png
+/home/prof-yonso/Escritorio/damage_control(1)/DamageControl/obj/x86/Debug/DamageControl.imagenes.003-doctor-3BIG.png
+/home/prof-yonso/Escritorio/damage_control(1)/DamageControl/obj/x86/Debug/DamageControl.imagenes.003-tools.png
+/home/prof-yonso/Escritorio/damage_control(1)/DamageControl/obj/x86/Debug/DamageControl.imagenes.004-people-3.png
+/home/prof-yonso/Escritorio/damage_control(1)/DamageControl/obj/x86/Debug/DamageControl.imagenes.006-affiliate.png
+/home/prof-yonso/Escritorio/damage_control(1)/DamageControl/obj/x86/Debug/DamageControl.imagenes.006-social.png
+/home/prof-yonso/Escritorio/damage_control(1)/DamageControl/obj/x86/Debug/DamageControl.imagenes.009-medical.png
+/home/prof-yonso/Escritorio/damage_control(1)/DamageControl/obj/x86/Debug/DamageControl.imagenes.009-medicalBIG.png
+/home/prof-yonso/Escritorio/damage_control(1)/DamageControl/obj/x86/Debug/DamageControl.imagenes.clipboard.png
+/home/prof-yonso/Escritorio/damage_control(1)/DamageControl/obj/x86/Debug/DamageControl.imagenes.dientelogo.png
+/home/prof-yonso/Escritorio/damage_control(1)/DamageControl/obj/x86/Debug/DamageControl.imagenes.medical.png
+/home/prof-yonso/Escritorio/damage_control(1)/DamageControl/obj/x86/Debug/DamageControl.imagenes.Busqueda.png
+/home/prof-yonso/Escritorio/damage_control(1)/DamageControl/obj/x86/Debug/DamageControl.imagenes.Eliminar.png
+/home/prof-yonso/Escritorio/damage_control(1)/DamageControl/obj/x86/Debug/DamageControl.imagenes.Logo Damage Control.png
+/home/prof-yonso/Escritorio/damage_control(1)/DamageControl/obj/x86/Debug/DamageControl.imagenes.Logo-Damage-Control.png
+/home/prof-yonso/Escritorio/damage_control(1)/DamageControl/obj/x86/Debug/DamageControl.imagenes.Modificar.png
+/home/prof-yonso/Escritorio/damage_control(1)/DamageControl/obj/x86/Debug/DamageControl.imagenes.Nuevo-Usuario.png
+/home/prof-yonso/Escritorio/damage_control(1)/DamageControl/obj/x86/Debug/DamageControl.imagenes.Reinscribir.png
+/home/prof-yonso/Escritorio/damage_control(1)/DamageControl/obj/x86/Debug/DamageControl.imagenes.Reportes.png
+/home/prof-yonso/Escritorio/damage_control(1)/DamageControl/bin/Debug/DamageControl.pdb
+/home/prof-yonso/Escritorio/damage_control(1)/DamageControl/bin/Debug/DamageControl.exe
+/home/prof-yonso/Escritorio/damage_control(1)/DamageControl/obj/x86/Debug/DamageControl.exe
+/home/prof-yonso/Escritorio/damage_control(1)/DamageControl/obj/x86/Debug/DamageControl.pdb
+/home/prof-yonso/Escritorio/damage_control(1)/DamageControl/bin/Debug/itextsharp.dll
+/home/prof-yonso/Escritorio/damage_control(1)/DamageControl/bin/Debug/MySql.Data.dll
+/home/prof-yonso/Escritorio/damage_control(1)/DamageControl/obj/x86/Debug/DamageControl.imagenes.Actualizar.png
+/home/prof-yonso/Escritorio/damage_control(1)/DamageControl/obj/x86/Debug/DamageControl.imagenes.Creditos.png
+/home/prof-yonso/Escritorio/damage_control(1)/DamageControl/obj/x86/Debug/DamageControl.imagenes.RegistrarUsuario.png
+/home/prof-yonso/Escritorio/damage_control(1)/DamageControl/obj/x86/Debug/DamageControl.imagenes.Reporte.png
+/home/prof-yonso/Escritorio/damage_control(1)/DamageControl/obj/x86/Debug/DamageControl.imagenes.Creditos1.png

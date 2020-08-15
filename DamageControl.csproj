@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project DefaultTargets="Build" ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <ProjectGuid>{B2FC11CD-4930-47AA-A9C4-A214A946A77F}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>DamageControl</RootNamespace>
+    <AssemblyName>DamageControl</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <ProductVersion>8.0.30703</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug</OutputPath>
+    <DefineConstants>DEBUG;</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <ConsolePause>false</ConsolePause>
+    <PlatformTarget>x86</PlatformTarget>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <DebugType>full</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release</OutputPath>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <ConsolePause>false</ConsolePause>
+    <PlatformTarget>x86</PlatformTarget>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="gtk-sharp, Version=2.12.0.0, Culture=neutral, PublicKeyToken=35e10195dab3c99f">
+      <SpecificVersion>False</SpecificVersion>
+      <Package>gtk-sharp-2.0</Package>
+    </Reference>
+    <Reference Include="gdk-sharp, Version=2.12.0.0, Culture=neutral, PublicKeyToken=35e10195dab3c99f">
+      <SpecificVersion>False</SpecificVersion>
+      <Package>gtk-sharp-2.0</Package>
+    </Reference>
+    <Reference Include="glib-sharp, Version=2.12.0.0, Culture=neutral, PublicKeyToken=35e10195dab3c99f">
+      <SpecificVersion>False</SpecificVersion>
+      <Package>glib-sharp-2.0</Package>
+    </Reference>
+    <Reference Include="glade-sharp, Version=2.12.0.0, Culture=neutral, PublicKeyToken=35e10195dab3c99f">
+      <SpecificVersion>False</SpecificVersion>
+      <Package>glade-sharp-2.0</Package>
+    </Reference>
+    <Reference Include="pango-sharp, Version=2.12.0.0, Culture=neutral, PublicKeyToken=35e10195dab3c99f">
+      <SpecificVersion>False</SpecificVersion>
+      <Package>gtk-sharp-2.0</Package>
+    </Reference>
+    <Reference Include="atk-sharp, Version=2.12.0.0, Culture=neutral, PublicKeyToken=35e10195dab3c99f">
+      <SpecificVersion>False</SpecificVersion>
+      <Package>gtk-sharp-2.0</Package>
+    </Reference>
+    <Reference Include="Mono.Posix" />
+    <Reference Include="System.Data" />
+    <Reference Include="itextsharp">
+      <HintPath>..\..\itextsharp\itextsharp.dll</HintPath>
+    </Reference>
+    <Reference Include="MySql.Data">
+      <HintPath>..\..\..\Descargas\Conector MySQL\mysql-connector-net-6.9.9-noinstall\v4.5\MySql.Data.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="gtk-gui\gui.stetic">
+      <LogicalName>gui.stetic</LogicalName>
+    </EmbeddedResource>
+    <EmbeddedResource Include="imagenes\Logo Damage Control.png" />
+    <EmbeddedResource Include="imagenes\Logo-Damage-Control.png" />
+    <EmbeddedResource Include="imagenes\Reportes.png" />
+    <EmbeddedResource Include="imagenes\Actualizar.png" />
+    <EmbeddedResource Include="imagenes\Creditos.png" />
+    <EmbeddedResource Include="imagenes\RegistrarUsuario.png" />
+    <EmbeddedResource Include="imagenes\Reporte.png" />
+    <EmbeddedResource Include="imagenes\Creditos1.png" />
+    <EmbeddedResource Include="imagenes\Actualizar2.png" />
+    <EmbeddedResource Include="imagenes\Creditos2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="gtk-gui\generated.cs" />
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Comandos.cs" />
+    <Compile Include="ConexionBD.cs" />
+    <Compile Include="Login.cs" />
+    <Compile Include="MenuPrincipal.cs" />
+    <Compile Include="gtk-gui\DamageControl.MenuPrincipal.cs" />
+    <Compile Include="gtk-gui\DamageControl.Login.cs" />
+    <Compile Include="Actualizaciones.cs" />
+    <Compile Include="gtk-gui\DamageControl.Actualizaciones.cs" />
+    <Compile Include="Reportes.cs" />
+    <Compile Include="gtk-gui\DamageControl.Reportes.cs" />
+    <Compile Include="Calendario.cs" />
+    <Compile Include="gtk-gui\DamageControl.Calendario.cs" />
+    <Compile Include="InfoDeUsuario.cs" />
+    <Compile Include="gtk-gui\DamageControl.InfoDeUsuario.cs" />
+    <Compile Include="Profesiones.cs" />
+    <Compile Include="gtk-gui\DamageControl.Profesiones.cs" />
+    <Compile Include="RegistroUsuario.cs" />
+    <Compile Include="gtk-gui\DamageControl.RegistroUsuario.cs" />
+  </ItemGroup>
+  <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
+  <ItemGroup>
+    <Folder Include="imagenes\" />
+  </ItemGroup>
+</Project>
